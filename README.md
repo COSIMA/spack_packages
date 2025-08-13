@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> **This repository has been archived and is read-only. Spack packages from this repo are maintained at https://github.com/ACCESS-NRI/spack-packages**
+
 # COSIMA Spack packages
 
 This is a spack package repository maintained by COSIMA for packages that are not available by default in spack.
